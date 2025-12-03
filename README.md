@@ -44,7 +44,7 @@ The final submission is an **ensemble** of:
 ---
 
 ## 3. Repository Structure
-```
+
 kiln-cv-pipeline/
 |
 |-- src/                      # Training & ensemble source code
@@ -60,7 +60,7 @@ kiln-cv-pipeline/
 |   `-- finalensemble_var1_top3.csv            # Final ensemble output
 |
 `-- README.md
-```
+
 
 ---
 
